@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo ao Meu Site!</h1>
+    <p>Este é um parágrafo de exemplo. Você pode adicionar mais conteúdo aqui.</p>
+    <img src="html5.png" alt="Imagem de exemplo">
+    <a href="Pagum.html">Pagina um</a>
+</body>
+</html>
